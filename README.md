@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+Thesis template for Southeast University (suitable for Master and PhD). 东南大学学位论文LaTeX模板，适用于硕士、博士。
+
+任何有志于参与本模板维护的同学，均可联系（yinjunjie98@gmail.com）并被列为宏包的维护者。
+
 <!--
 **seuthesis/seuthesis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
